@@ -1,0 +1,25 @@
+{
+  "name": "devcamp-js-footer-lindsay",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LindsayWilde/devcamp-js-footer-Lindsay.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Lindsay Wilde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LindsayWilde/devcamp-js-footer-Lindsay/issues"
+  },
+  "homepage": "https://github.com/LindsayWilde/devcamp-js-footer-Lindsay#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
